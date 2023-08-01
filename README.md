@@ -1,4 +1,4 @@
-![Alt text](image-2.png)
+![Alt text](readme-images/image-2.png)
 
 
 ## Aplikasi CRUD Data Pegawai
@@ -20,7 +20,7 @@ git init
 
 <center>
 
-![Alt text](image-11.png)
+![Alt text](readme-images/image-11.png)
 
 </center>
 
@@ -35,7 +35,7 @@ git clone https://github.com/ibnuahmadfauzi/crud-laravel-ajax-jquery.git
 
 <center>
 
-![Alt text](image-12.png)
+![Alt text](readme-images/image-12.png)
 
 </center>
 
@@ -45,7 +45,7 @@ git clone https://github.com/ibnuahmadfauzi/crud-laravel-ajax-jquery.git
 Duplicate file <b>.env.example</b> by name <b>.env</b> and edit <b>DB_DATABASE</b>
 <center>
 
-![Alt text](image-4.png)
+![Alt text](readme-images/image-4.png)
 
 </center>
 <br><br>
@@ -54,7 +54,7 @@ Duplicate file <b>.env.example</b> by name <b>.env</b> and edit <b>DB_DATABASE</
 Create a database with the same name
 <center>
 
-![Alt text](image-5.png)
+![Alt text](readme-images/image-5.png)
 
 </center>
 <br>
@@ -68,7 +68,7 @@ composer install
 
 <center>
 
-![Alt text](image-6.png)
+![Alt text](readme-images/image-6.png)
 
 </center>
 
@@ -83,7 +83,7 @@ php artisan migrate
 
 <center>
 
-![Alt text](image-7.png)
+![Alt text](readme-images/image-7.png)
 
 </center>
 
@@ -98,7 +98,7 @@ php artisan db:seed
 
 <center>
 
-![Alt text](image-8.png)
+![Alt text](readme-images/image-8.png)
 
 </center>
 
@@ -114,7 +114,7 @@ php artisan key:generate
 
 <center>
 
-![Alt text](image-9.png)
+![Alt text](readme-images/image-9.png)
 
 </center>
 
@@ -130,7 +130,7 @@ php artisan serve
 
 <center>
 
-![Alt text](image-10.png)
+![Alt text](readme-images/image-10.png)
 
 </center>
 
@@ -142,6 +142,6 @@ Finish (✦ ‿ ✦)
 
 <center>
 
-![Alt text](image-13.png)
+![Alt text](readme-images/image-13.png)
 
 </center>
